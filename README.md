@@ -1,5 +1,4 @@
-# Gestion les réservation des hôtel et des agences
-SiteWeb pour gèrer les réservation des hôtel et agences en JAVA avec une application intermèdiaire.
+SiteWeb pour gèrer les réservation des hôtel et des agences en JAVA avec une application intermèdiaire.
 
 # UML de la Version Simple: 
 
